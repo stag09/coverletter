@@ -12,7 +12,7 @@ genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
 
 # Streamlit App Title
 st.set_page_config(page_title="AI Cover Letter Generator", layout="centered")
-st.title("📝 AI Cover Letter Generator (Gemini)")
+st.title("📝 AI Cover Letter Generator ")
 
 st.write("Generate a professional, personalized cover letter from your resume and job description.")
 
