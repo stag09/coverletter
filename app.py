@@ -82,7 +82,7 @@ with tab1:
 
     # Language support expanded
     language = st.selectbox("🌍 Select Output Language", [
-        "English", "Hindi", "Telugu", "French", "Spanish", "German"
+        "English", "Hindi", "Telugu", "French", "Spanish", "German", "Japanesh"
     ])
 
     if st.button("✨ Generate Cover Letter"):
